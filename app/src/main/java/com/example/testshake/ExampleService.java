@@ -102,15 +102,15 @@ public class ExampleService extends Service {
         throw new UnsupportedOperationException("Not yet implemented");
     }
 
-    @Override
-    public void onSensorChanged(SensorEvent sensorEvent) {
-
-    }
-
-    @Override
-    public void onAccuracyChanged(Sensor sensor, int i) {
-
-    }
+//    @Override
+//    public void onSensorChanged(SensorEvent sensorEvent) {
+//
+//    }
+//
+//    @Override
+//    public void onAccuracyChanged(Sensor sensor, int i) {
+//
+//    }
 
 //    @Override
 //    public void onSensorChanged(SensorEvent sensorEvent) {
